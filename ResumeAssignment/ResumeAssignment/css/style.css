@@ -1,0 +1,66 @@
+/* Background color for body */
+
+body {
+
+    background-color:  #f6f6f6;
+
+}
+
+p {
+
+    font-size: 20px;
+    font-family:cursive;
+    color: blue;
+}
+
+h1 {
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 300%;
+    color: blue;
+}
+
+h2 {
+    
+    font-size: 200%;
+    font-family:cursive;
+    color: blue;
+}
+
+h3 {
+
+   font-family:cursive;
+   font-size: 150%;
+   color: blue;
+      
+}
+
+.picture {
+
+    float:right;
+    margin: 20px;
+    width: 200px;
+    
+}
+/* home */
+.home {
+
+    background: url(../images/sharon-mccutcheon-unsplash.jpg) no-repeat;
+    background-position: cover;
+
+}
+
+.home .content-wrapper {
+
+    background: rgb(255, 255, 255 / 0.9);
+
+}
+
+/* footer */
+footer {
+
+background: #c7c683;
+color: blue;
+
+}
+
